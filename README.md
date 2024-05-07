@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 ### 目标检测
 [【yolov world 部署 rknn、地平线、tensorRT、C++】](https://github.com/cqu20160901/yoloworld-onnx-tensorRT-rknn-horizon)
 
-[【DETR 部署 tensorRT、C++】](https://github.com/cqu20160901/DETR_onnx_tensorRT_V2)
-
 [【yolov9 部署 rknn、地平线、tensorRT、C++】](https://github.com/cqu20160901/yolov9_onnx_tensorRT_rknn_horizon)
 
 [【yolov8 部署 rknn、地平线、tensorRT、C++】](https://github.com/cqu20160901/yolov8n_onnx_tensorRT_rknn_horizon_dfl)
@@ -33,7 +31,7 @@ Here are some ideas to get you started:
 
 [【yolov5 部署 rknn、地平线、tensorRT、caffe】](https://github.com/cqu20160901/yolov5p6_caffe_onnx_tensorRT_rknn_horizon)
 
-
+[【DETR 部署 tensorRT、C++】](https://github.com/cqu20160901/DETR_onnx_tensorRT_V2)
 
 [【SSD 部署 caffe、tensorRT】](https://github.com/cqu20160901/ssd_caffe_onnx_tensorRT)
 

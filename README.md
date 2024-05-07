@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 
 [【车牌回归部署 caffe、onnx、tensorRT】](https://github.com/cqu20160901/plateRegress_caffe_onnx_tensorRT)
 
-### 分割
-[【DeepLabV3部署 onnx、tensorRT】](https://github.com/cqu20160901/DeepLabV3_pytorch_onnx_tensorRT)
+### 分割（车道线、路面）
+[【DeepLabV3 路面分割部署 onnx、tensorRT】](https://github.com/cqu20160901/DeepLabV3_pytorch_onnx_tensorRT)
 
 [【UNet 多车道线、多车线类别识别部署】](https://github.com/cqu20160901/UNetMutilLane_onnx_tensorRT_rknn_horizon)
 

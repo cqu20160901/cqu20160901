@@ -39,6 +39,9 @@ Here are some ideas to get you started:
 
 [【FCOS 部署 onnx】](https://github.com/cqu20160901/FCOS_onnx)
 
+### Segment Anything
+[【FastSAM 部署 onnx、rknn】](https://github.com/cqu20160901/FastSAM_onnx_rknn)
+
 ### 人脸检测
 [【RFB-SSD人脸检测部署caffe、onnx、tensorRT】](https://github.com/cqu20160901/RFB_Face_caffe_onnx_tensorRT)
 

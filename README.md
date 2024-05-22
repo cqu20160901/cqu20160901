@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 
 [【yolox 部署 caffe、tensorRT】](https://github.com/cqu20160901/yolox_caffe_onnx_tensorRT)
 
+[【CenterNet 部署 rknn、地平线、tensorRT、C++】](https://github.com/cqu20160901/CenterNet_onnx_rknn_horizon_tensorRT)
+
 [【FCOS 部署 onnx】](https://github.com/cqu20160901/FCOS_onnx)
 
 ### Segment Anything

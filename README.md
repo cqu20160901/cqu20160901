@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 [【yolov8 部署 rknn、地平线、tensorRT、C++】](https://github.com/cqu20160901/yolov8n_onnx_tensorRT_rknn_horizon_dfl)
 
-[【yolov7 部署 rknn、地平线、tensorRT、C++】](https://github.com/cqu20160901/yolov7_caffe_onnx_tensorRT_rknn_horizon)
+[【yolov7 部署 rknn、地平线、tensorRT】](https://github.com/cqu20160901/yolov7_caffe_onnx_tensorRT_rknn_horizon)
 
 [【yolov6 部署rknn、地平线、tensorRT、caffe】](https://github.com/cqu20160901/yolov6n_v2.0_caffe_onnx_rknn)
 

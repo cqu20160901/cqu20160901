@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 
 ### 目标检测
+
+[【yolov10 部署 rknn、地平线、tensorRT、C++】](https://github.com/cqu20160901/yolov10_onnx_rknn_horizon_tensorRT)
+
 [【yolo world 部署 rknn、地平线、tensorRT、C++】](https://github.com/cqu20160901/yoloworld-onnx-tensorRT-rknn-horizon)
 
 [【yolov9 部署 rknn、地平线、tensorRT、C++】](https://github.com/cqu20160901/yolov9_onnx_tensorRT_rknn_horizon)

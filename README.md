@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 [【FCOS 部署 onnx】](https://github.com/cqu20160901/FCOS_onnx)
 
 ### Segment Anything
-[【FastSAM 部署 onnx、rknn】](https://github.com/cqu20160901/FastSAM_onnx_rknn)
+[【FastSAM 部署 onnx、rknn、C++】](https://github.com/cqu20160901/FastSAM_onnx_rknn)
 
 ### 3D 目标检测
 [【Monodle centernet3d 部署 rknn、地平线、tensorRT】](https://github.com/cqu20160901/centernet3d_onnx_rknn_horizon_tensorRT)

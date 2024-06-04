@@ -50,6 +50,10 @@ Here are some ideas to get you started:
 ### 3D 目标检测
 [【Monodle centernet3d 部署 rknn、地平线、tensorRT】](https://github.com/cqu20160901/centernet3d_onnx_rknn_horizon_tensorRT)
 
+### 旋转目标检测
+
+[【yolov8obb 旋转目标检测部署 rknn、地平线、tensorRT】](https://github.com/cqu20160901/yolov8obb_onnx_rknn_horizon_tensonRT)
+
 ### 人脸检测
 [【RFB-SSD人脸检测部署caffe、onnx、tensorRT】](https://github.com/cqu20160901/RFB_Face_caffe_onnx_tensorRT)
 

@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 ### 分割（车道线、路面）
 [【DeepLabV3 路面分割部署 onnx、tensorRT】](https://github.com/cqu20160901/DeepLabV3_pytorch_onnx_tensorRT)
 
-[【UNet 多车道线、线类别识别部署 onnx、rknn、地平线、tensorRT】](https://github.com/cqu20160901/UNetMultiLane_onnx_tensorRT_rknn_horizon) [【训练代码】](https://github.com/cqu20160901/UNetMultiLane)
+[【UNet 多车道线、线类别识别部署 onnx、rknn、地平线、tensorRT、C++】](https://github.com/cqu20160901/UNetMultiLane_onnx_tensorRT_rknn_horizon) [【训练代码】](https://github.com/cqu20160901/UNetMultiLane)
 
 [【UNet 路面分割部署caffe、onnx、tensorRT】](https://github.com/cqu20160901/unet_roadSeg_caffe_onnx_tensorRT)
 

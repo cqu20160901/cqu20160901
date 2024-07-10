@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 [【UNet 路面分割部署caffe、onnx、tensorRT】](https://github.com/cqu20160901/unet_roadSeg_caffe_onnx_tensorRT)
 
 ### 深度估计
-[【MiDaS单目深度估计 部署rknn、C++】](https://blog.csdn.net/zhangqian_1/article/details/140291694?spm=1001.2014.3001.5501)
+[【MiDaS 单目深度估计 部署rknn、C++】](https://blog.csdn.net/zhangqian_1/article/details/140291694?spm=1001.2014.3001.5501)
 
 ### 其它
 [【Ultra-Fast-Lane部署caffe、onnx、horizon、rknn】](https://github.com/cqu20160901/Ultra-Fast-Lane-Detection_caffe_onnx_horizon_rknn)

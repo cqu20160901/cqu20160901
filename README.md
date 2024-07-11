@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 [【MiDaS 单目深度估计 部署 onnx、rknn、C++】](https://github.com/cqu20160901/MiDaS_DepthEstimation_rknn_Cplusplus)
 
 ### 车牌识别
-[LPRNet 车牌识别部署 onnx、rknn、C++](https://github.com/cqu20160901/LPRNet_rknn_Cplusplus)
+[【LPRNet 车牌识别部署 onnx、rknn、C++】](https://github.com/cqu20160901/LPRNet_rknn_Cplusplus)
 
 ### 其它
 [【Ultra-Fast-Lane部署caffe、onnx、horizon、rknn】](https://github.com/cqu20160901/Ultra-Fast-Lane-Detection_caffe_onnx_horizon_rknn)

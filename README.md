@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 [【yolov8seg 部署 rknn、地平线、tensorRT、C++】](https://github.com/cqu20160901/yolov8seg_onnx_tensorRT_rknn_horizon)
 
 ### 关键点
-[【yolov8pose 部署 rknn、地平线、tensorRT、C++】](https://github.com/cqu20160901/yolov8pose_onnx_tensorRT_rknn_horizon)
+[【yolov8pose 部署 rknn、地平线、tensorRT、C++】](https://github.com/cqu20160901/yolov8pose_onn_rknn_horizon_tensorRT_dfl)
 
 [【车牌回归部署 caffe、onnx、tensorRT】](https://github.com/cqu20160901/plateRegress_caffe_onnx_tensorRT)
 

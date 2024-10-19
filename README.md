@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### 目标检测
 
-[【yolov11 部署 rknn、C++、TensorRT-cuda】](https://github.com/cqu20160901/yolov11_onnx_rknn)
+[【yolov11 部署 rknn、C++、TensorRT（cuda和cpu两个版本后处理实现）】](https://github.com/cqu20160901/yolov11_onnx_rknn)
 
 [【yolov10 部署 rknn、地平线、tensorRT、C++】](https://github.com/cqu20160901/yolov10_onnx_rknn_horizon_tensorRT)
 

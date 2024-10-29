@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### 目标检测
 
-[【RT-DETR 部署 tensorRT、C++】](https://github.com/cqu20160901/RT-DETRv2_TensorRT_Cplusplu)
+[【RT-DETR-V2 部署 tensorRT、C++】](https://github.com/cqu20160901/RT-DETRv2_TensorRT_Cplusplu)
 
 [【yolov11 部署 rknn、C++、TensorRT（cuda和cpu两个版本后处理实现）】](https://github.com/cqu20160901/yolov11_onnx_rknn)
 

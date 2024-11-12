@@ -17,11 +17,15 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cqu20160901&show_icons=true&theme=merko)
 
-### 3D目标检测-点云
+# 基于点云
+
+### 3D目标检测
 
 [【PointPillars 3D目标检测 部署 onnx、tensorRT】](https://github.com/cqu20160901/PointPillars_onnx_tensorRT)
 
-### 目标检测-图像
+# 基于图像
+
+### 目标检测
 
 [【RT-DETR-V2 部署 tensorRT、C++】](https://github.com/cqu20160901/RT-DETRv2_TensorRT_Cplusplu)
 
@@ -54,7 +58,7 @@ Here are some ideas to get you started:
 ### Segment Anything
 [【FastSAM 部署 onnx、rknn、C++】](https://github.com/cqu20160901/FastSAM_onnx_rknn)
 
-### 3D 目标检测-基于图像
+### 3D 目标检测
 [【Monodle centernet3d 部署 rknn、地平线、tensorRT】](https://github.com/cqu20160901/centernet3d_onnx_rknn_horizon_tensorRT)
 
 ### 旋转目标检测

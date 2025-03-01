@@ -28,12 +28,13 @@ Here are some ideas to get you started:
 # 2）基于图像
 
 ### 目标检测
+[【yolov12 部署 rknn、C++】](https://github.com/cqu20160901/yolov12_onnx_rknn)
 
 [【yolov11 部署 rknn、C++ 的7种方法】](https://github.com/cqu20160901/yolov11_deploymethods)
 
 [【RT-DETR-V2 部署 tensorRT、C++】](https://github.com/cqu20160901/RT-DETRv2_TensorRT_Cplusplu)
 
-[【yolov11 部署 rknn、C++、TensorRT（cuda和cpu两个版本后处理实现）】](https://github.com/cqu20160901/yolov11_onnx_rknn)
+[【yolov11 部署 rknn、C++、TensorRT（cuda和cpu两个版本后处理实现）】](https://github.com/cqu20160901/yolov11_onnx_rknn_tensorRT)
 
 [【yolov10 部署 rknn、地平线、tensorRT、C++】](https://github.com/cqu20160901/yolov10_onnx_rknn_horizon_tensorRT)
 

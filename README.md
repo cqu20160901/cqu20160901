@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 # 2）基于图像
 
 ### 目标检测
+[【yolov13 部署 rknn、C++】](https://github.com/cqu20160901/yolov13_onnx_rknn)
+
 [【yolov12 部署 rknn、C++】](https://github.com/cqu20160901/yolov12_onnx_rknn)
 
 [【yolov11 部署 rknn、C++ 的7种方法】](https://github.com/cqu20160901/yolov11_deploymethods)

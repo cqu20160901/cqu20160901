@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### BEV 方案
 
-[【LSS:lift-splat-shoot 部署 tensorRT】](https://github.com/cqu20160901/LSS_lift-splat-shoot_onnx_tensorrt)
+[【LSS：lift-splat-shoot 部署 tensorRT】](https://github.com/cqu20160901/LSS_lift-splat-shoot_onnx_tensorrt)
 
 ### 目标检测
 [【yolov13 部署 rknn、C++】](https://github.com/cqu20160901/yolov13_onnx_rknn)

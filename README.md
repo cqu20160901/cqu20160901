@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 [【PointPillars 3D目标检测 部署 onnx、tensorRT】](https://github.com/cqu20160901/PointPillars_onnx_tensorRT)
 
 
-
 # 2）基于图像
 
 ### BEV 方案

@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 [【LSS：lift-splat-shoot 部署 tensorRT】](https://github.com/cqu20160901/LSS_lift-splat-shoot_onnx_tensorrt)
 
 ### 目标检测
+
+[【yolo26 部署 rknn、C++】](https://github.com/cqu20160901/yolo26_onnx_rknn)
+
 [【yolov13 部署 rknn、C++】](https://github.com/cqu20160901/yolov13_onnx_rknn)
 
 [【yolov12 部署 rknn、C++】](https://github.com/cqu20160901/yolov12_onnx_rknn)
